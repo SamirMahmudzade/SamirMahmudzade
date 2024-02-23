@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirmahmudzade&show_icons=true&locale=en" alt="samirmahmudzade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirmahmudzade&" alt="samirmahmudzade" /></p>
+
+![snake gif](https://github.com/SamirMahmudzade/SamirMahmudzade/blob/output/github-contribution-grid-snake.gif)
